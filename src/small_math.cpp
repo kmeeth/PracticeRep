@@ -11,6 +11,6 @@ namespace small_math
 	}
 	int mul(int a, int b)
 	{
-		return 0; //dummy
+		return a * b; //dummy
 	}
 }
