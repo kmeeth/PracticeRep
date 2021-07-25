@@ -1,0 +1,1 @@
+add_library(small_math small_math.cpp small_math.h)
