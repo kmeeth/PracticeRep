@@ -3,7 +3,7 @@ namespace small_math
 {
 	int add(int a, int b)
 	{
-		return 0; //dummy
+		return a + b; //dummy
 	}
 	int sub(int a, int b)
 	{
