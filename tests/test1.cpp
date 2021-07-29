@@ -1,6 +1,6 @@
 #define CATCH_CONFIG_MAIN
 #include "catch2.hpp"
-#include "../src/small_math.h"
+#include <small_math.h>
 
 TEST_CASE("Adddition is checked", "[addition]")
 {
